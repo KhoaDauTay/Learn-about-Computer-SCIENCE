@@ -1,19 +1,19 @@
 # Learn-about-Computer-SCIENCE
 ## Computer Science Roadmap (AI Track)
-
-- [x] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+### Skills required
+- [ ] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 
 ### Intro to CS
 
-- [x] [CS50 - Introduction to Computer Science - Harvard](cs50.tv/)
-- [x] [6.0001 - Introduction to Computer Science and Programming in Python, Fall 2016 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-- [x] [6.0002 - Introduction to Computational Thinking and Data Science, Fall 2016 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+- [ ] [CS50 - Introduction to Computer Science - Harvard](cs50.tv/)
+- [] [6.0001 - Introduction to Computer Science and Programming in Python, Fall 2016 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+- [] [6.0002 - Introduction to Computational Thinking and Data Science, Fall 2016 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
 ### Programming
 
-- [x] [CS61A - Structure and Interpretation of Computer Programs (Python + Scheme) - UC Berkeley](http://cs61a.org/)
+- [] [CS61A - Structure and Interpretation of Computer Programs (Python + Scheme) - UC Berkeley](http://cs61a.org/)
 - [ ] [CS61A - Structure and Interpretation of Computer Programs (Scheme), 2010 - UC Berkeley](https://www.youtube.com/playlist?list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9)
-- [x] [CS106A - Programming Methodology (Java) - Stanford](https://see.stanford.edu/Course/CS106A)
+- [] [CS106A - Programming Methodology (Java) - Stanford](https://see.stanford.edu/Course/CS106A)
 - [ ] [CS106B - Programming Abstractions (C++) - Stanford](https://see.stanford.edu/Course/CS106B)
 - [ ] [CS107 - Programming Paradigms - Stanford](https://see.stanford.edu/Course/CS107)
 - [ ] [CSE341 - Programming Languages, Spring 2013 - University of Washington](https://courses.cs.washington.edu/courses/cse341/13sp/)
@@ -23,16 +23,16 @@
 ### Maths
 
 - **Calculus**
-    - [x] [18.01 - Single Variable Calculus, Fall 2006 - MIT](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
-    - [x] [18.02 - Multivariable Calculus, Fall 2007 - MIT](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
+    - [] [18.01 - Single Variable Calculus, Fall 2006 - MIT](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
+    - [] [18.02 - Multivariable Calculus, Fall 2007 - MIT](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
     - [ ] [18.03 - Differential Equations, Spring 2010 - MIT](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)
 
 - **Linear Algebra**
-    - [x] [18.06 - Linear Algebra, Fall 2011 - MIT](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
+    - [] [18.06 - Linear Algebra, Fall 2011 - MIT](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
     - [ ] [Linear Algebra Review - CMU](http://www.cs.cmu.edu/~zkolter/course/linalg/index.html)
 
 - **Probability and Statistics**
-    - [x] [6.041 - Probabilistic Systems Analysis and Applied Probability, Fall 2013 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
+    - [] [6.041 - Probabilistic Systems Analysis and Applied Probability, Fall 2013 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
     - [ ] [STAT110 - Probability - Harvard](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
     - [ ] [18.650 - Statistics for Applications, Fall 2016 - MIT](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/)
     - [ ] [36-705 - Intermediate Statistics, Fall 2016 - CMU](http://www.stat.cmu.edu/~larry/=stat705/)
@@ -65,7 +65,7 @@
 
 ### Data Structures and Algorithms
 
-- [x] [CS61B - Data Structures, Spring 2019 - UC Berkeley](https://sp19.datastructur.es/)
+- [] [CS61B - Data Structures, Spring 2019 - UC Berkeley](https://sp19.datastructur.es/)
 - [ ] [6.006 - Introduction to Algorithms, Fall 2011 - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 - [ ] [COS226 - Algorithms - Princeton](https://algs4.cs.princeton.edu/home/)
 - [ ] [6.046J - Design and Analysis of Algorithms, Spring 2015 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
@@ -99,7 +99,7 @@
 
 ### Database Systems
 
-- [x] [CS145 - Introduction to Databases - Stanford](https://lagunita.stanford.edu/courses/Home/Databases/Engineering/about)
+- [] [CS145 - Introduction to Databases - Stanford](https://lagunita.stanford.edu/courses/Home/Databases/Engineering/about)
 - [ ] [CS186 - Introduction to Database Systems, Spring 2015 - UC Berkeley](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y)
 - [ ] [15-445 - Introduction to Database Systems, Fall 2017 - CMU](https://15445.courses.cs.cmu.edu/fall2017/)
 - [ ] [15-721 - Advanced Database Systems, Spring 2018 - CMU](https://15721.courses.cs.cmu.edu/spring2018/)
@@ -129,7 +129,7 @@
 
 - **Machine Learning**
     - [ ] [STATS216 - Statistical Learning, Winter 2016 - Stanford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
-    - [x] [CS229 - Machine Learning - Stanford](https://see.stanford.edu/course/cs229)
+    - [] [CS229 - Machine Learning - Stanford](https://see.stanford.edu/course/cs229)
     - [ ] [CS155 - Machine Learning & Data Mining, Winter 2017 - Caltech](http://www.yisongyue.com/courses/cs155/2017_winter/)
     - [ ] [CS156 - Learning from Data, Caltech](https://work.caltech.edu/lectures.html)
     - [ ] [10-601 - Introduction to Machine Learning (MS), Spring 2015 - CMU](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
