@@ -28,7 +28,7 @@
     - [ ] [18.03 - Differential Equations, Spring 2010 - MIT](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)
 
 - **Linear Algebra**
-    - [] [18.06 - Linear Algebra, Fall 2011 - MIT](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
+    - [ ] [18.06 - Linear Algebra, Fall 2011 - MIT](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
     - [ ] [Linear Algebra Review - CMU](http://www.cs.cmu.edu/~zkolter/course/linalg/index.html)
 
 - **Probability and Statistics**
